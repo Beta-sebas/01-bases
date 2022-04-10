@@ -6,6 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  public titulo : string = 'Contador app';
-  numero : number = 0;
+ 
 }
