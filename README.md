@@ -1,6 +1,6 @@
 # Bases
 
-aplicación web creada con _Angular_, en la cual se desarrollan los fundamentos básicos de este frameWork
+Aplicación web creada con _Angular_, en la cual se desarrollan los fundamentos básicos de este frameWork
  
 Esta aplicación, contiene 
 
