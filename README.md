@@ -6,25 +6,24 @@ Esta aplicación, contiene
 
 * _Creación de modulos_
 * _Creación de componentes_
+* _Creación de servicios_
 * _Uso de direcctivas estructurales *ng_
+* _Centralización de la información usando servicios_
+* _Uso de Modulos_
 * _Buenas practicas para el arbol del proyecto_
 
 ## Comenzando 🚀
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Ejecuta `ng serve` en la ventana de comando para ejecutar el sevidor de desarrollo. Navega hacia `http://localhost:4200/`. La aplicación se actualizará automaticamente en el servidor si realizas cambios en los archivos.
 
 ## Construido con 🛠️
 
 * [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 * [NodeJs](https://nodejs.org/es/) vesion 16.14
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Ejecuta `ng build` para desplegar la app. Que se guardará en el directorio `dist/`.
 
 ## Further help
 
