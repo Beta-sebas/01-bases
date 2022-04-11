@@ -15,28 +15,9 @@ export class MainPageComponent implements OnInit {
     ngOnInit(): void {
     }
 
-    personajes:Personaje[]= [
-        {
-           nombre: 'Goku',
-           poder : 15000 
-        },
-        {
-            nombre: 'Vegueta',
-            poder : 12000
-        },
-        {
-            nombre: 'Picoro',
-            poder : 8000
-        }
-    ];
-
     nuevo:Personaje = {
         nombre: "",
         poder : 0
-    }
-
-    agregarPersonaje( personaje: Personaje){
-        this.personajes.push(personaje);
     }
 
 }
